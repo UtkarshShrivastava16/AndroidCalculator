@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="inputCheck">Please enter all the inputs.</string>
+    <string name="divZero">Cannot divide by zero.</string>
+    <string name="add">Add</string>
+    <string name="sub">Subtract</string>
+    <string name="div">Divide</string>
+    <string name="mod">Mod</string>
+    <string name="mul">Multiply</string>
+
 </resources>

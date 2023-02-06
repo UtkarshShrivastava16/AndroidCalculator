@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bgCol">#504B4E</color>
+    <color name="answerText">#0027FF</color>
+    <color name="answerValue">#FF0017</color>
+    <color name="numberEntry">#C8C2C3</color>
 </resources>
